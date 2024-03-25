@@ -8,8 +8,8 @@ The logos of IPL teams were web-scraped from Wikipedia and integrated into the B
 
 ### Files
 - **IPL_Wins.ipynb:** Jupyter notebook containing the script for generating the Bar Race Chart using the Manim and Bar Race Chart libraries.
-- **IPL_Teams_Logos_Web_Scrapping.ipynb:** Jupyter notebook for web scraping IPL team logos from Wikipedia.
+- **IPL_Teams_Logos_Web_Scrapping.py:** Python script to web scrap IPL team logos from Wikipedia.
 - **ipl_historical.csv:** Dataset containing the historical data of game results of IPL from 2008 to 2023.
+  
 
-
-
+**Ee Sala Cup Namde !!!**
